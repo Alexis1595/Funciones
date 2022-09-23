@@ -7,7 +7,7 @@ funciones de clase pública {
         holamundo("Alex");
 
 
-        String rperfecto = devolverperfecto();
+        String perfecto = devolverperfecto();
         Sistema. fuera. println("perfecto");
 
     }
